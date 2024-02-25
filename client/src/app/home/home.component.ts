@@ -27,7 +27,8 @@ export class HomeComponent implements OnInit{
           next: (response) => this.users = response,
           error: (e) => console.log(e),
           complete: () => console.log('req complated')
-        })
+    })
+
   }
 
   cancleRegisterMode(event: boolean)
