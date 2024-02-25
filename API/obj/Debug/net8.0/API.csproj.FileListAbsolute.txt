@@ -250,3 +250,4 @@ D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dl
 D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UdemyASPNET\DatingApp\API\obj\Debug\net8.0\API.sourcelink.json
