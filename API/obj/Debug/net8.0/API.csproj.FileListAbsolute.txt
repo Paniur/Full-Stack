@@ -251,3 +251,6 @@ D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authenticatio
 D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\UdemyASPNET\DatingApp\API\obj\Debug\net8.0\API.sourcelink.json
+D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\Data\UserSeedData.json
+D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\AutoMapper.dll
+D:\UdemyASPNET\DatingApp\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
